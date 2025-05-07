@@ -1,2 +1,2 @@
-Autor: Antonio Arcos Serrano
+Autor: Antonio Arcos Serrano 
 Descripcion: Estructura de RA de sostenibilidad
